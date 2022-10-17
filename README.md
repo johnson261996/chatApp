@@ -36,13 +36,11 @@ lib
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/S9u7Sxz"  >
   <a href="//imgur.com/a/S9u7Sxz">Login Screen</a></blockquote> -->
 
-Chat page                       |   Register Page           |         Home Page        |  update Page |
+Chat page                       |   Message Page           |     
 :---------------------------------:|:-------------------------:|:------------------------:|:-------------|
  <div float="left">
-    <img src="https://imgur.com/ZbfB8P2" alt="chat Screen" width="110"/>
-    <img src="https://imgur.com/STXTDJP.png" alt="Register Screen" width="110"/>
-  <img src="https://imgur.com/accBxhH.png" alt="Home Screen" width="110"/>
-  <img src="https://imgur.com/y6HP4YB.png" alt="update Screen" width="110"/>
+    <img src="https://imgur.com/ZbfB8P2.png" alt="chat Screen" width="110"/>
+    <img src="https://imgur.com/STXTDJP.png" alt="message Screen" width="110"/>
   </div>
 ## Getting Started
 
