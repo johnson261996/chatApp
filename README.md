@@ -39,8 +39,8 @@ lib
 Chat page                       |   Register Page           |         Home Page        |  update Page |
 :---------------------------------:|:-------------------------:|:------------------------:|:-------------|
  <div float="left">
-    <img src="https://imgur.com/a/vsIEW0y" alt="Login Screen" width="110"/>
-    <img src="https://imgur.com/NRpfUGQ.png" alt="Register Screen" width="110"/>
+    <img src="https://imgur.com/ZbfB8P2" alt="chat Screen" width="110"/>
+    <img src="https://imgur.com/STXTDJP.png" alt="Register Screen" width="110"/>
   <img src="https://imgur.com/accBxhH.png" alt="Home Screen" width="110"/>
   <img src="https://imgur.com/y6HP4YB.png" alt="update Screen" width="110"/>
   </div>
