@@ -36,10 +36,10 @@ lib
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/S9u7Sxz"  >
   <a href="//imgur.com/a/S9u7Sxz">Login Screen</a></blockquote> -->
 
-Login page                       |   Register Page           |         Home Page        |  update Page |
+Chat page                       |   Register Page           |         Home Page        |  update Page |
 :---------------------------------:|:-------------------------:|:------------------------:|:-------------|
  <div float="left">
-    <img src="https://imgur.com/a/vsIEW0y.png" alt="Login Screen" width="110"/>
+    <img src="https://imgur.com/a/vsIEW0y" alt="Login Screen" width="110"/>
     <img src="https://imgur.com/NRpfUGQ.png" alt="Register Screen" width="110"/>
   <img src="https://imgur.com/accBxhH.png" alt="Home Screen" width="110"/>
   <img src="https://imgur.com/y6HP4YB.png" alt="update Screen" width="110"/>
