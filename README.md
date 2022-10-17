@@ -32,9 +32,6 @@ lib
 ```
 
 ##  Screenshots
-<!-- 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/S9u7Sxz"  >
-  <a href="//imgur.com/a/S9u7Sxz">Login Screen</a></blockquote> -->
 
 Chat page                       |   Message Page           |     
 :---------------------------------:|:-------------------------:|
